@@ -1,6 +1,6 @@
 This repo houses easy-start templates for use within the CREWAI Framework.
 
-To get setup with ollama open a terminal and run: 
+To get setup with ollama open a terminal and run : 
 
 curl -fsSL https://ollama.com/install.sh | sh
 
